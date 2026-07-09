@@ -30,6 +30,3 @@ The repository is organized to ensure reproducibility of the computational analy
 4. Run the scripts in the following order:
     - `mus_musculus.R` / `homo_sapiens.R`
     - `Cross-Species_Analysis.R`
-
-# Citation
-If you use this pipeline or these datasets in your research, please refer to the corresponding methodology and analyses associated with the mouse dataset study.
